@@ -3,7 +3,7 @@ I am Mugdha Vairagade, working at the intersection of technology and creativity.
 
 My job is to cut through the jargon and write how to use technology in easy-to-understand language. I also dream up and design stuff.
 
-I use GitHub repositories to house my coding experimets and content samples.
+I use GitHub repositories to house my coding experiments and content samples.
 
 My motto is: simplify, simplify, simplify!
 
