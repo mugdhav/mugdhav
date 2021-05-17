@@ -1,11 +1,11 @@
 ### Hi there 👋! You have found my home page.
-I am Mugdha Vairagade, working at the intersection of technology and content.
+I am Mugdha Vairagade, working at the intersection of technology and creativity.
 
-My job is to cut through the jargon and explain how to use technology in easy-to-understand language. I also dream up and design stuff.
+My job is to cut through the jargon and write how to use technology in easy-to-understand language. I also dream up and design stuff.
 
-I use GitHub repositories as the home of my coding experimets and content samples.
+I use GitHub repositories to house my coding experimets and content samples.
 
-
+My motto is: simplify, simplify, simplify!
 
 <!--
 **mugdhav/mugdhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
