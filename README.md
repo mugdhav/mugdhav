@@ -9,7 +9,7 @@ My motto is: simplify, simplify, simplify!
 ***
 See some of my work:
    
-- [Authoring Accessible Documentation](http://indus.stc-india.org/page/239/) – Guidelines for authoring accessibility-compliant documentation.
+- [Authoring Accessible Documentation](http://indus.stc-india.org/page/239/) - Guidelines for authoring accessibility-compliant documentation.
 
 - [Developing Java-Based Mobile Games](https://www.developer.com/ws/j2me/article.php/3502741/developing-java-based-mobile-games.htm) - A tutorial about how to develop mobile games using
 J2ME.
