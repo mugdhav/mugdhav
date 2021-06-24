@@ -6,7 +6,10 @@ My job is to cut through the jargon and write how to use technology in easy-to-u
 I use GitHub repositories to house my coding experiments and content samples.
 
 My motto is: simplify, simplify, simplify!
---
+
+See some of my work:
+- 
+- 
 
 
 <!--
