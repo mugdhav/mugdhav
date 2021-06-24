@@ -7,9 +7,8 @@ I use GitHub repositories to house my coding experiments and content samples.
 
 My motto is: simplify, simplify, simplify!
 
-See some of my work:
-- 
-- 
+   See some of my work:
+   
 
 
 <!--
