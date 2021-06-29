@@ -13,7 +13,7 @@ See some of my work:
 
 - [Developing Java-Based Mobile Games](https://www.developer.com/mobile/java-mobile/developing-java-based-mobile-games/) - A tutorial about how to develop mobile games using
 J2ME.
-- [Managing Your Configuration with JFig](https://https://www.developer.com/java/managing-your-configuration-with-jfig/) - A step-by-step tutorial for installing and using JFig to manage configuration of Java applications.
+- [Managing Your Configuration with JFig](https://www.developer.com/java/managing-your-configuration-with-jfig/) - A step-by-step tutorial for installing and using JFig to manage configuration of Java applications.
 
 - [Understanding Echo](https://www.developer.com/open/article.php/3607781/Understanding-Echo.htm) - A quick-start guide for implementing and using the Echo framework, a
 Java-based open source API providing readymade components for developing Web applications.
