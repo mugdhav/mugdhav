@@ -1,4 +1,4 @@
-### Hi there 👋! You have found my home page.
+### Hi there 👋! You have found my personal Github page.
 I am Mugdha Vairagade, working at the intersection of technology and creativity.
 
 My job is to cut through the jargon and write how to use technology in easy-to-understand language. I also dream up and design stuff.
