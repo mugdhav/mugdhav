@@ -8,7 +8,7 @@ I use GitHub repositories to house my coding experiments and content samples.
 My motto is: simplify, simplify, simplify!
 ***
 
-You can find some of my ***work samples*** in my [Showcase](https://github.com/mugdhav/showcase) repository available to the publical. Fellow professionals, feel free to clone my repository, but take care to not submit the repository's contents as your own work.  
+You can find some of my ***work samples*** in my [Showcase](https://github.com/mugdhav/showcase) repository available publicaly. Fellow professionals, feel free to clone my repository, but take care to not submit the repository's contents as your own work.  
 Additionally, I have a **private showcase** repository with **exclusive work samples**, **available on request**. Please message me on LinkedIn for the access.
 I am building a viewer-friendly portfolio [website](https://mugdhav.github.io) where you'll be able to take a quick peek into my work samples. 
 Follow me on [LinkedIn](https://www.linkedin.com/in/mugdhav) and [Twitter](https://twitter.com/vmugdha).
