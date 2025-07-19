@@ -15,6 +15,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/mugdhav) and [Twitter](https
 
 ***
 See some of my work:
+
+- [ImageToDITA Converter](https://claude.ai/public/artifacts/6dc01e7d-6f9d-496e-a178-53240c747753) - An AI-enabled tool I have created for technical writers. It generates DITA task topics from UI or mockup screenshots. 
    
 - [Authoring Accessible Documentation](http://indus.stc-india.org/page/239/) - Guidelines for authoring accessibility-compliant documentation.
 
