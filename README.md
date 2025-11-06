@@ -9,7 +9,7 @@ My motto is: simplify, simplify, simplify!
 ***
 You can view my latest ***technical writing*** work samples and ***AI development projects*** on my portfolio [website](https://www.vmugdha.in).
 Some of my older ***work samples*** are available in my [Showcase](https://github.com/mugdhav/showcase) repository here. Fellow professionals, feel free to clone my repository, but take care to not submit the repository's contents as your own work.  
-Additionally, I have a **private showcase** repository with **exclusive work samples**, **available on request**. Please message me on LinkedIn for the access.
+<!--Additionally, I have a **private showcase** repository with **exclusive work samples**, **available on request**. Please message me on LinkedIn for the access.-->
 Follow me on [LinkedIn](https://www.linkedin.com/in/mugdhav) and [Twitter/X](https://x.com/vmugdha).
 
 ***
