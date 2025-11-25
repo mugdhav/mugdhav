@@ -16,7 +16,9 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/mugdhav) and [Twitter/X](htt
 See some of my work:
 
 - [ImageToDITA Converter](https://youtu.be/783w_xChhn0) - An AI-enabled tool I have created for technical writers. It generates DITA task topics from UI or mockup screenshots. It is also available on [Anthropic Artifacts](https://claude.ai/public/artifacts/6dc01e7d-6f9d-496e-a178-53240c747753). You can try out this tool by providing your own Anthropic API key.
-   
+- [] - AI-Powered Startup Evaluation for Venture Capitalists. 
+
+My Older Articles and Tutorials:
 - [Authoring Accessible Documentation](http://indus.stc-india.org/page/239/) - Guidelines for authoring accessibility-compliant documentation.
 
 - [Developing Java-Based Mobile Games](https://www.developer.com/mobile/java-mobile/developing-java-based-mobile-games/) - A tutorial about how to develop mobile games using
