@@ -1,11 +1,12 @@
 ### Hi there 👋! You have found my personal Github page.
 I am Mugdha Vairagade, working at the intersection of technology and creativity.
 
-My job is to cut through the jargon and write how to use technology in easy-to-understand language. I also dream up and design stuff.
-
-I use GitHub repositories to house my coding experiments and content samples.
+My job is to cut through the jargon and write how to use technology in easy-to-understand language. I also dream up, design, and build stuff with AI help.
 
 My motto is: simplify, simplify, simplify!
+
+I use these GitHub repositories to house my coding experiments and content samples.
+
 ***
 You can view my latest ***technical writing*** work samples and ***AI development projects*** on my portfolio [website](https://www.vmugdha.in).
 Some of my older ***work samples*** are available in my [Showcase](https://github.com/mugdhav/showcase) repository here. Fellow professionals, feel free to clone my repository, but take care to not submit the repository's contents as your own work.  
