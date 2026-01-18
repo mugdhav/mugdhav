@@ -15,7 +15,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/mugdhav) and [Twitter/X](htt
 
 ***
 See some of my work:
-- [https://huggingface.co/spaces/mugdhav/transcript_reviewer](https://huggingface.co/spaces/mugdhav/transcript_reviewer) - An AI-powered tool to generate and refine subtitles SRT effortlessly with context-aware AI corrections and a real-time media-synchronized fine-tuning.
+- [MV Subtitle Generator](https://huggingface.co/spaces/mugdhav/transcript_reviewer) - An AI-powered tool to generate and refine subtitles SRT effortlessly with context-aware AI corrections and a real-time media-synchronized fine-tuning.
 - [ImageToDITA Converter](https://youtu.be/783w_xChhn0) - An AI-enabled tool I have created for technical writers. It generates DITA task topics from UI or mockup screenshots. It is also available on [Anthropic Artifacts](https://claude.ai/public/artifacts/6dc01e7d-6f9d-496e-a178-53240c747753). You can try out this tool by providing your own Anthropic API key.
 - [Startup Analyzer](https://ai.studio/apps/drive/1BQ4qO7IU4pwYhYBmQ9eTLy-tLE6v51OJ) - AI-Powered Startup Evaluation for Venture Capitalists. I built this tool using Google AI Studio and Gemini API. You can try it out [here](https://ai.studio/apps/drive/1BQ4qO7IU4pwYhYBmQ9eTLy-tLE6v51OJ).  
 
