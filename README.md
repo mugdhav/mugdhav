@@ -15,6 +15,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/mugdhav) and [Twitter/X](htt
 
 ***
 See some of my latest work:
+- [ip-guard](https://github.com/mugdhav/claude-skill-ip-guard) - A Claude Code skill that enforces IP and license compliance during code generation by blocking libraries with vulnerable transitive dependencies, flagging license conflicts, and appending a provenance audit trail to every artifact.
 - [Security Auditor](https://mugdhav-security-auditor.hf.space) - A Python tool that scans vibe-coded apps for security vulnerabilities and provies remediation guidance. Performs deterministic, rule‑based code analysis instead of error-prone code scanning by LLMs. 
 - [MV Subtitle Generator](https://mugdhav-transcript-reviewer.hf.space) - An AI-powered tool to generate and refine subtitles SRT effortlessly from audio or video files, with context-aware AI corrections and a real-time media-synchronized fine-tuning.
 - [ImageToDITA Converter](https://youtu.be/783w_xChhn0) - An AI-enabled tool I have created for technical writers. It generates DITA task topics from UI or mockup screenshots. It is also available on [Anthropic Artifacts](https://claude.ai/public/artifacts/6dc01e7d-6f9d-496e-a178-53240c747753). You can try out this tool by providing your own Anthropic API key.
