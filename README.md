@@ -1,7 +1,7 @@
 ### Hi there 👋! You have found my personal Github page.
-I am Mugdha Vairagade, working at the intersection of technology and creativity.
+I am Mugdha Vairagade, A Technical Writer and AI Developer.
 
-My job is to cut through the jargon and write how to use technology in easy-to-understand language. I also dream up, design, and build stuff with AI help.
+My job is to cut through the jargon and write how to use technology in easy-to-understand language. I also dream up, design, and build stuff with AI's help.
 
 My motto is: simplify, simplify, simplify!
 
