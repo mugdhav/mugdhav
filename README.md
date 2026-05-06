@@ -10,6 +10,7 @@ Currently focused on: MCP servers · agentic workflows · AI tooling for technic
 
 ***
 My latest work:
+- [Closed Fist](https://suscriptrack.replit.app) - A web app to track, optimize, and manage all your AI subscriptions in one place. Built with Replit, OpenAI API, and GPT 5.4.
 - [ip-guard](https://github.com/mugdhav/claude-skill-ip-guard) - A Claude Code skill that enforces IP and license compliance during code generation by blocking libraries with vulnerable transitive dependencies, flagging license conflicts, and appending a provenance audit trail to every artifact.
 - [Security Auditor](https://mugdhav-security-auditor.hf.space) - A Python tool that scans vibe-coded apps for security vulnerabilities and provies remediation guidance. Performs deterministic, rule‑based code analysis instead of error-prone code scanning by LLMs. 
 - [MV Subtitle Generator](https://mugdhav-transcript-reviewer.hf.space) - An AI-powered tool to generate and refine subtitles SRT effortlessly from audio or video files, with context-aware AI corrections and a real-time media-synchronized fine-tuning.
